@@ -1,0 +1,7 @@
+.event-box {
+  background-color:gray;
+  height: 120px;
+  width: 700px;
+  margin: 30px;
+  display:flex;
+}
